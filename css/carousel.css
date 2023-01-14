@@ -138,20 +138,20 @@
 
 /* event images */
 .bg-event-1 {
-	background: url(../img/event/sports.jpg);
+	background: url(../img/event/sports.webp);
 }
 
 .bg-event-2 {
-	background: url(../img/event/hackathon.jpg);
+	background: url(../img/event/hackathon.webp);
 }
 .bg-event-3 {
-	background: url(../img/event/startupTalk.jpg) bottom;
+	background: url(../img/event/startupTalk.webp) bottom;
 }
 .bg-event-4 {
 	background: url(../img/event/StuntShow.webp);
 }
 .bg-event-5 {
-	background: url(../img/event/tech.jpg);
+	background: url(../img/event/tech.webp);
 }
 .bg-event-6 {
 	background: url(../img/gallery/34.webp);
