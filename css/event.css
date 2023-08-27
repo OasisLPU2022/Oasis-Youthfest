@@ -29,7 +29,7 @@
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f8d90d;
+  background-color: #f82249;
   color: #fff;
 }
 
@@ -139,7 +139,7 @@
 }
 
 #faq #faq-list a.collapse {
-  color: #f8d90d;
+  color: #f82249;
 }
 
 #faq #faq-list a.collapsed i::before {
@@ -258,10 +258,10 @@
   background-image: linear-gradient(120deg, #ee8425 0%, #f9488b 100%),
     linear-gradient(120deg, #ee8425 0%, #f9488b 100%);
    */
-  background-image: -o-linear-gradient(330deg, #ee8425 0%, #f8d90d 100%),
-    -o-linear-gradient(300deg, #ee8425 0%, #f8d90d 100%);
-  background-image: linear-gradient(120deg, #ee8425 0%, #f8d90d 100%),
-    linear-gradient(120deg, #ee8425 0%, #f8d90d 100%);
+  background-image: -o-linear-gradient(330deg, #ee8425 0%, #f82249 100%),
+    -o-linear-gradient(300deg, #ee8425 0%, #f82249 100%);
+  background-image: linear-gradient(120deg, #ee8425 0%, #f82249 100%),
+    linear-gradient(120deg, #ee8425 0%, #f82249 100%);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
