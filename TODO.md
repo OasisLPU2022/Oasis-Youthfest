@@ -1,1 +1,1 @@
-[] - Lazy Load Images on Gallery Page
+-   [x] Lazy Load Images on Gallery Page
